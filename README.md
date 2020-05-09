@@ -6,6 +6,7 @@ SCRIPT GENERATOR APP
 
 * [Codeingniter](https://codeigniter.com/) - PHP framework
 * [Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/) - CSS Library
+* [JQUERY](https://jquery.com/) - Javascript Library
 
 ## PREVIEW
 ![image](https://user-images.githubusercontent.com/25057235/80936013-84a4fe00-8df9-11ea-8f7a-13f0b8838af1.png)
